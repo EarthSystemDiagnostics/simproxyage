@@ -91,7 +91,7 @@ archives, Clim. Past, 10(2), 825-841, doi: 10.5194/cp-10-825-2014, 2014.
 }
 \seealso{
 \code{\link{BAM}}, \code{\link{BrownianBridge}},
-\code{\link{PerturbCoreSegment}}
+\code{\link{PerturbCoreSegment}}, \code{\link{MonteCarloArray}}
 }
 \author{
 Thomas Münch

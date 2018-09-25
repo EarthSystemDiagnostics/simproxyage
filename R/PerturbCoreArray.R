@@ -58,7 +58,7 @@
 ##' layer-counted climate proxies: applications to annually banded coral
 ##' archives, Clim. Past, 10(2), 825-841, doi: 10.5194/cp-10-825-2014, 2014.
 ##' @seealso \code{\link{BAM}}, \code{\link{BrownianBridge}},
-##' \code{\link{PerturbCoreSegment}}
+##' \code{\link{PerturbCoreSegment}}, \code{\link{MonteCarloArray}}
 ##' @export
 PerturbCoreArray <- function(X, t, acp = c(t[1], NA), ns = 1000,
                              model = "poisson", rate = 0.05, resize = 1) {

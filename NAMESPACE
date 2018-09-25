@@ -2,6 +2,7 @@
 
 export(BAM)
 export(BrownianBridge)
+export(MonteCarloArray)
 export(PerturbCoreArray)
 export(PerturbCoreSegment)
 export(PerturbData)
