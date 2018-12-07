@@ -4,9 +4,9 @@ Version: 0.1.0
 Authors@R: person("Thomas", "Muench", email = "thomas.muench@awi.de", role = c("aut", "cre"))
 Description: This R package implements an stochastic approach to simulate the
 age uncertainty in layer-counted climate proxy records by perturbing a reference
-chronology by randomly omitting or double-counting the reference layers. The
-implementation is an adapted and extended version of the MATLAB code by Comboul
-et al. (2014).
+chronology via randomly omitting or double-counting the reference layers. The
+implementation is an adapted and extended version of the MATLAB code developed
+by Comboul et al. (2014).
 Depends: R (>= 3.3.1)
 License: file LICENSE
 Encoding: UTF-8

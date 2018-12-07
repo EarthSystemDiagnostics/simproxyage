@@ -5,11 +5,11 @@
 ## Introduction
 
 **simproxyage** implements an stochastic approach to simulate the age
-uncertainty in layer-counted climate proxy records by perturbing a reference
-chronology by randomly omitting or double-counting the reference layers.
+uncertainty in _layer-counted_ climate proxy records by perturbing a reference
+chronology via randomly omitting or double-counting the reference layers.
 
 The implementation is an adapted and extended version of the MATLAB code
-developed by Comboul et al. (2014) who applied it on annually banded coral
+developed by Comboul et al. (2014) who applied it to annually banded coral
 archives. The current R package has been used by Münch and Laepple (2018) to
 model the time uncertainty of annually dated stable isotope firn-core records
 based on seasonal layer counting constrained by volcanic tie points.
