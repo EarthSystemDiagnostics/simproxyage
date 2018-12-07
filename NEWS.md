@@ -1,3 +1,7 @@
+# simproxyage 0.1.1
+
+* Installable package version.
+
 # simproxyage 0.1.0
 
 * Package version released along with the publication Münch, T. and Laepple, T.:
